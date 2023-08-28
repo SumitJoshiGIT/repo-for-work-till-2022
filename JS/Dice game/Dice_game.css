@@ -1,0 +1,60 @@
+body{
+    height:100%;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+}
+#main_win{
+    display:flex;
+    height:100vh;
+    width:100vw;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.player{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    background-color:red;
+   height: 60%;
+   opacity:0.4;
+   width:40%;
+   border-right: black bold ;
+   border-radius:5px;      
+
+
+}
+
+button{
+   
+    width:5vw;
+    height:3vw;
+    display:inline-flex;}
+#controls{
+    position:absolute;
+    flex-direction: column;
+    height:10vw;
+    width:7vw;
+    margin:4px;
+    display:flex;
+    align-items: center;
+    z-index:10;
+}
+
+.val_box{
+    display: flex;
+    border-radius: 3px;
+    opacity:0.9;
+    background-color:yellow;
+    width: 5vw;
+    height:5vw;
+    margin:4px;
+    align-items: center;
+    justify-content: center;
+    padding:2px;  
+    overflow: hidden;    
+       
+}

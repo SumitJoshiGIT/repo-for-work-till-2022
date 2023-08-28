@@ -1,0 +1,52 @@
+body{
+    
+    margin:(0,0,0,0);
+    background-color: #131516;
+    height:100vw;
+    width: 100vw;
+
+
+}
+
+#S1{
+ padding:0.5rem;
+ height:100vh;
+ width:95vw;
+ border: 2px;
+ color:white;
+ text-align: center;
+ background-color:black;
+ border-radius: 3rem;
+}
+#sub_1{margin:2vw;
+    min-width: none;
+    min-height: none;
+    padding:5vw;
+    border-radius: 5rem;
+    box-shadow: inset;
+    font-size: 5vw;
+    height:60vw;
+    width:80vw;
+    border: 2px;
+    color:white;
+    text-align: center;
+    background-color:#131516;
+   
+
+
+}
+input{
+     text-align: center;
+    height:5vw;
+    width:5vw;
+    border-radius:1rem;
+    
+}
+button{
+   
+    height:5.75vw;
+    width:8vw;
+   
+    border-radius:1rem;
+
+}
