@@ -1,4 +1,3 @@
 # Till-2022
-This is some of projects i could recover from my old hdd 
-Will face updates in future
+This repo contains some of the work i recovered from my old machine and contains some projects from my High School days
 
